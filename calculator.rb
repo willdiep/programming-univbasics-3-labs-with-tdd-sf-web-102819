@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = log1
+first_number = log10
